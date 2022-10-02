@@ -11,7 +11,7 @@ Github repository containing data portfolio from my data science study journey
 - ### Exploratory Data Analysis
       - World Happiness Report 2021 Exploratory Data Analysis
 - ### Machine Learning
-     - [Final Assignment at id/x Partners Predicting Credit Risk on Lending Company Dataset]
+     - Final Assignment at id/x Partners Predicting Credit Risk on Lending Company Dataset
      - Breast Cancer Predictionr
 
 Thank you for your attention !
