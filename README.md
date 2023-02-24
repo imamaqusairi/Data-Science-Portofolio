@@ -1,19 +1,17 @@
-# Data Science Portfolo
+# Data Science Portfolio
+A repository where i collected all projects that i created
 
-Github repository containing data portfolio from my data science study journey
-
-# Contents
-
-- ## Customer Churn
+## List of Contents
+### Customer Churn
 Predicting churn rate of customer in Company X
 
-- ## Employee Retention
+### Employee Retention
 Predicting Employee retention in Company X
 
-- ## Medical Cost 
+### Medical Cost 
 Prediction the medical cost in Company X
 
-- ## Other Interesting Project I Created 
+### Other Interesting Project I Created 
 1. Machine Learning
 2. Exploratory Data Analysis
 3. Natural Language Processing (NLP)
