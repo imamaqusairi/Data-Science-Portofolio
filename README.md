@@ -1,17 +1,21 @@
-# data-science-portofolio
+# Data Science Portfolo
 
 Github repository containing data portfolio from my data science study journey
 
-### Contents
+# Contents
 
-- ### Data Visualization
-      - Statistical Relationship Visualization Using Seaborn Module
-      - Numeric Disribution Visualization Using Seaborn Module
-      - Categorical Data Visualization Using Seaborn Module
-- ### Exploratory Data Analysis
-      - World Happiness Report 2021 Exploratory Data Analysis
-- ### Machine Learning
-     - Final Assignment at id/x Partners Predicting Credit Risk on Lending Company Dataset
-     - Breast Cancer Predictionr
+- ## Customer Churn
+      Predicting churn rate of customer in Company X
 
-Thank you for your attention !
+- ## Employee Retention
+      Predicting Employee retention in Company X
+
+- ## Medical Cost 
+      Prediction the medical cost in Company X
+
+- ## Other Interesting Project I Created 
+      1. Machine Learning
+      2. Exploratory Data Analysis
+      3. Natural Language Processing (NLP)
+      4. Time Series Analysis
+
