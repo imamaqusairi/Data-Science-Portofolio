@@ -3,6 +3,8 @@ A repository where i collected all projects that i created
 
 ## List of Contents
 ### Customer Churn
+
+![Alt text](Images\Don't Pay a Medical Bill Until You Do These 5 Things.jpeg)
 Predicting customer churning event of a E-Commerce company. The data cleaned from outliers , high cardinality and highly correlated features.  Then preprocessed using standardization method and feature encoding (Label Encoding & One-hot Encoding). The models trained using Hetero Ensembling method consists of 3 best perfomer models. Final evaluation got 0.98 AUC ROC score. 
 
 ### Employee Retention
