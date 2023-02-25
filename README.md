@@ -3,13 +3,14 @@ A repository where i collected all projects that i created
 
 ## List of Contents
 ### Customer Churn
-Predicting churn rate of customer in Company X
+Predicting customer churning event of a E-Commerce company. The data cleaned from outliers , high cardinality and highly correlated features.  Then preprocessed using standardization method and feature encoding (Label Encoding & One-hot Encoding). The models trained using Hetero Ensembling method consists of 3 best perfomer models. Final evaluation got 0.98 AUC ROC score. 
 
 ### Employee Retention
-Predicting Employee retention in Company X
+Analyzing the factors that caused to employee retention and building machine learning model for predicting them. Using Random Forest and performing comparison between models with and without class balancing operations. 
+
 
 ### Medical Cost 
-Prediction the medical cost in Company X
+Experimenting building machine learning models using lazypredict python module. Suceed built 42 different classifiers only with a few line of codes.  
 
 ### Other Interesting Project I Created 
 1. Machine Learning
